@@ -2,6 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.11-blue?logo=python)](https://www.python.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+[![Model Accuracy](https://img.shields.io/badge/Accuracy-92%25-brightgreen)](https://github.com/pathananas2007/Titanic_Survival_Prediction)
 
 Predicting the survival of passengers on the Titanic using **Machine Learning**. This project is based on the famous [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic).
 
