@@ -21,13 +21,13 @@ This project predicts whether a passenger survived the Titanic disaster based on
 
 ## 🛠️ Technologies & Libraries
 
-- Python 3.x  
-- pandas >=2.0.0  
-- numpy >=1.25.0  
-- matplotlib >=3.8.0  
-- seaborn >=0.12.0  
-- scikit-learn >=1.3.0  
-- jupyter >=1.0.0  
+- Python 3.x
+- pandas >=2.0.0
+- numpy >=1.25.0
+- matplotlib >=3.8.0
+- seaborn >=0.12.0
+- scikit-learn >=1.3.0
+- jupyter >=1.0.0
 
 ---
 
