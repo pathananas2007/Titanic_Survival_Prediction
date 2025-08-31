@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/python-3.11-blue?logo=python)](https://www.python.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Model Accuracy](https://img.shields.io/badge/Accuracy-92%25-brightgreen)](https://github.com/pathananas2007/Titanic_Survival_Prediction)
 
 Predicting the survival of passengers on the Titanic using **Machine Learning**. This project is based on the famous [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic).
 
@@ -48,6 +47,16 @@ Files used from Kaggle Titanic dataset:
 
 Columns include:  
 `PassengerId`, `Survived` (target), `Pclass`, `Name`, `Sex`, `Age`, `SibSp`, `Parch`, `Ticket`, `Fare`, `Cabin`, `Embarked`
+
+---
+
+## 📸 Model Output Example
+
+Here is an example of the ROC curve of the Random Forest model:
+
+![ROC Curve](94907363-6de0-4098-a159-61b3c7249437.png)
+
+- AUC = 0.87 shows the model predicts survival quite accurately.
 
 ---
 
