@@ -51,28 +51,3 @@ This project predicts whether a passenger survived the Titanic disaster based on
 ```bash
 git clone https://github.com/<your-username>/Titanic_Survival_Prediction.git
 cd Titanic_Survival_Prediction
-pip install -r requirements.txt
-jupyter notebook titanic_model.ipynb
-# or
-python titanic_model.py
-submission.csv
-Titanic_Survival_Prediction/
-├─ README.md
-├─ titanic_model.ipynb
-├─ train.csv
-├─ test.csv
-├─ requirements.txt
-└─ .gitignore
-images/
-├─ age_distribution.png
-├─ survival_by_class.png
-└─ correlation_heatmap.png
-
----
-
-✅ Copy and paste **this exact version** into `README.md`.  
-This will render **perfectly on GitHub** with headings, bullets, and code blocks properly formatted.  
-
-If you want, I can now guide you **step-by-step to upload your notebook, CSVs, and requirements.txt** so the repo is fully complete.  
-
-Do you want me to do that next?
